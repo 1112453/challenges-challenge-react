@@ -1,0 +1,23 @@
+.page {
+    flex-grow: 1;
+    max-width: 100%;
+}
+.header {
+    height: 100px;
+    top: 0;
+    position: fixed;
+    background-color: #fff;
+    z-index: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    flex-direction: column;
+}
+.all-donate {
+    margin-right: 48px;
+    color: red;
+    display: flex;
+     justify-content: flex-end;
+     width: 100%;
+}
